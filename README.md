@@ -1,1 +1,1 @@
-SY_AI_A_GROUP_21_PYTHON_TYPING_SPEED_TEST_GAME
+Python Speed Typing Test Game
